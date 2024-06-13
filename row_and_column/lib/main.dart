@@ -69,7 +69,8 @@ class _MyHomePageState extends State<MyHomePage> {
                           //  mes:"message");
                         })));
               },
-              child: Container(
+              child: Container(width: 110,
+                  height: 110,
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 4, 181, 4),
@@ -80,6 +81,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   )),
             ),
             Container(
+              width: 110,
+                  height: 110
                 margin: EdgeInsets.all(42),
                 padding: EdgeInsets.all(30),
                 color: Color.fromARGB(255, 9, 164, 175),
@@ -89,6 +92,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   ],
                 )),
             Container(
+              width: 110,
+                  height: 110
                 margin: EdgeInsets.all(42),
                 padding: EdgeInsets.all(30),
                 color: Color.fromARGB(255, 111, 4, 84),
@@ -101,6 +106,8 @@ class _MyHomePageState extends State<MyHomePage> {
           Row(
             children: [
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 8, 83, 168),
@@ -110,6 +117,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     ],
                   )),
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(40),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 193, 8, 48),
@@ -119,6 +128,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     ],
                   )),
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 191, 207, 90),
@@ -132,6 +143,8 @@ class _MyHomePageState extends State<MyHomePage> {
           Row(
             children: [
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 69, 68, 25),
@@ -141,6 +154,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     ],
                   )),
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 21, 75, 105),
@@ -150,6 +165,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     ],
                   )),
               Container(
+                width: 110,
+                  height: 110
                   margin: EdgeInsets.all(42),
                   padding: EdgeInsets.all(30),
                   color: Color.fromARGB(255, 134, 4, 154),
